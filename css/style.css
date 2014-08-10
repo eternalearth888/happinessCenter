@@ -1,0 +1,159 @@
+/**WIDTHS**/
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #5a5a5a;
+	font-family: "Droid Serif", serif;
+	font-size: 15px;
+	background: url(../images/background.jpg) repeat;
+	background-color: #f7efe0;
+}
+
+/**HEADERS & CONTENT**/
+h1 {
+	font-size: 23px;
+	font-weight: normal;
+	margin: .5em 1em .5em 1em;
+	border-bottom: 1px dashed #5a5a5a;
+}
+
+h2 {
+	font-family: "Montserrat", sans-serif;
+	background: url(../images/title.jpg);
+	width: 555px;
+	height: 30px;
+	padding: 1em 0 1em 2em;
+	position: relative;
+	left: -30px;
+	font-size: 30px;
+	color: #a69f9b;
+	text-transform: uppercase;
+}
+
+/**SECTIONS**/
+
+header {
+	background: url(../images/header.jpg) repeat; 
+	margin: 0;
+	height: 100px;
+	padding: 0;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	color: #f7efe0;
+}
+
+.top {
+	margin: auto;
+	text-align: left;
+	border-bottom: 1px solid black;
+	padding-bottom: 1em;
+}
+
+#logo {
+	margin-left: 5em;
+	margin-right: 8em;
+}
+
+nav {
+	vertical-align: bottom;
+	display: inline-block;
+}
+
+section {
+	margin:auto;
+	margin-top: 4em;
+	padding: .5em 1em;
+	background: url(../images/background.jpg) repeat;
+	background-color: #f7efe0;
+ 	width: 800px;
+	box-shadow: 5px 5px 10px #5a5a5a;
+	border-radius: 1em;
+}
+
+article {
+	margin: auto;
+}
+
+p {
+	text-align: justify;
+	padding: .5em;
+}
+
+/**NAV UL**/
+nav ul{
+	height: auto;
+	padding: .5em 0em;
+	margin: 0;
+	list-style-type: none;
+	text-align: left;
+}
+
+nav li{
+	padding: .2em;
+}
+
+/**TABLE STUFF**/
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#colored {
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #9685BA;
+}
+
+tbody {
+	vertical-align: top;
+	font-size: 12px;
+}
+
+#date {
+	font-style: italic;
+	text-align: right;
+	width: 200px;
+}
+
+#titleC {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+#titleL {
+	text-align: left;
+}
+
+#right {
+	text-align: right;
+	vertical-align: middle;
+}
+
+/**LINKS**/
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #242738;
+}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none;
+	color: #242738; 
+}
+
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #242738;
+}
