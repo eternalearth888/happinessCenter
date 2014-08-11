@@ -1,0 +1,91 @@
+.bold {
+  font-weight: bold;
+}
+
+.legend {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.unanswered {
+  background: #ff0000;
+}
+
+.yourscore {
+  font-size: 20pt;
+  font-weight: bold;
+  padding: 10px;
+}
+
+body {
+  text-align: center;
+}
+
+body.survey .footer {
+  font-size: 80%;
+  text-align: center;
+}
+
+body.survey .header {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+div.wrapper {
+  margin: 0px auto;
+  text-align: left;
+  width: 800px;
+}
+
+p, pre {
+  color: black;
+  font-family: times, serif;
+  font-size: 16pt;
+}
+
+p.error {
+  color: blue;
+}
+
+table {
+  display: block;
+  margin: 0px auto 10px;
+}
+
+table.scoring {
+  background: #dedede;
+  outline: 1px solid #8a8a8a;
+  width: 80%;
+}
+
+table.scoring td.score {
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+}
+
+table.scoring td.title {
+  font-size: 16pt;
+  text-decoration: underline;
+}
+
+td {
+  padding: 10px;
+}
+
+tr.even {
+  background: #dedede;
+}
+
+tr.odd {
+  background: #cdcdcd;
+}
+
+tr.top td {
+  background: #8a8a8a;
+  padding: 0px;
+}

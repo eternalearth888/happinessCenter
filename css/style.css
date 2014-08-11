@@ -25,14 +25,11 @@ h1 {
 
 h2 {
 	font-family: "Montserrat", sans-serif;
-	background: url(../images/title.jpg);
-	width: 555px;
-	height: 30px;
-	padding: 1em 0 1em 2em;
+	padding: 1.5em 0 0 2em;
 	position: relative;
-	left: -30px;
-	font-size: 30px;
-	color: #a69f9b;
+	left: -55px;
+	font-size: 35px;
+	color: #83b449;
 	text-transform: uppercase;
 }
 
@@ -41,26 +38,26 @@ h2 {
 header {
 	background: url(../images/header.jpg) repeat; 
 	margin: 0;
-	height: 100px;
-	padding: 0;
+	height: 150px;
+	padding: 1em 0 0 0;
 	width: 100%;
 	position: absolute;
 	top: 0;
 	left: 0;
 	z-index: -1;
-	color: #f7efe0;
+	color: #d0b75a;
+	text-align: right;
+	vertical-align: middle;
 }
 
 .top {
 	margin: auto;
 	text-align: left;
-	border-bottom: 1px solid black;
-	padding-bottom: 1em;
 }
 
 #logo {
-	margin-left: 5em;
-	margin-right: 8em;
+	margin-left: .5em;
+	margin-right: 2.5em;
 }
 
 nav {
@@ -70,13 +67,14 @@ nav {
 
 section {
 	margin:auto;
-	margin-top: 4em;
+	margin-top: 1em;
 	padding: .5em 1em;
-	background: url(../images/background.jpg) repeat;
+	background: url(../images/content.png) repeat;
 	background-color: #f7efe0;
  	width: 800px;
 	box-shadow: 5px 5px 10px #5a5a5a;
-	border-radius: 1em;
+	border-top-left-radius: 7em;
+	border-bottom-right-radius: 7em;
 }
 
 article {
@@ -85,14 +83,26 @@ article {
 
 p {
 	text-align: justify;
-	padding: .5em;
+	text-indent: 3em;
+	padding-right: .5em;
+	padding-left: .5em;
+}
+
+#social {
+	margin-right: 3em;
+}
+
+#social img {
+	width: 36px;
+	height: 36px;
+	margin: .2em;
 }
 
 /**NAV UL**/
 nav ul{
 	height: auto;
 	padding: .5em 0em;
-	margin: 0;
+	margin: .5em;
 	list-style-type: none;
 	text-align: left;
 }
@@ -144,16 +154,16 @@ tbody {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #242738;
+	color: #d0b75a;
 }
 
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none;
-	color: #242738; 
+	color: #d0b75a; 
 }
 
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #242738;
+	color: #83b449;
 }
