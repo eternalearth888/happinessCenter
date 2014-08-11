@@ -1,5 +1,12 @@
 #myslides
 {
-	height:400px;
-	width: 100%;
+	height:150px;
+	width: 600px;
+	border: 1px solid red;
+}
+
+#myslides img {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
 }
