@@ -4,20 +4,13 @@
 <head>
 <meta charset="utf-8">
 <title>The Happiness Center</title>
-
-<script src="scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
-<script src="scripts/jquery.cycle.lite.js" type="text/javascript"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-	$('#myslides').cycle({
-		fit: 1, pause: 1, timeout: 4000
-	});
-});
-</script>
+<?php include('slideShowScript.php'); ?>
+<?php include('quotesScript.php'); ?>
 <!--[if lt IE 9]> <script src="html5shiv.js"></script> <![endif]-->
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <?php include('header.php'); ?>
+<?php include('sociallinks.php'); ?>
 <section>
 <?php include('navigation.php'); ?>

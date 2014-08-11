@@ -10,5 +10,7 @@
 <p><a href="mailto:info@LdsCoaching.com">Info@TheHappinessCenter.com</a></p>
 <h1>Address</h1>
 <p><address>
-1106 E. Roggen Way<br>Superior Colorado 80027<br>USA
+The Happiness Center<br />
+P.O. Box 270251<br />
+Louisville CO 80027
 </address></p>
