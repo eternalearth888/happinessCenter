@@ -15,7 +15,6 @@ $(document).ready(function(){
 });
 </script>
 <!--[if lt IE 9]> <script src="html5shiv.js"></script> <![endif]-->
-<link rel="stylesheet" href="styles/dynamicslides.css" type="text/css" media="screen" />
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>

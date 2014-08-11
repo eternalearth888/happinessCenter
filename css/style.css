@@ -65,6 +65,18 @@ nav {
 	display: inline-block;
 }
 
+#myslides
+{
+	height:300px;
+	width: 800px;
+	overflow: hidden;
+}
+
+#myslides img {
+	display: block;
+	width: 100%;
+}
+
 section {
 	margin:auto;
 	margin-top: 1em;
