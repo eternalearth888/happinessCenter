@@ -1,0 +1,197 @@
+msgid "Admin"
+msgstr ""
+
+msgid "Automatically scroll to the post editor"
+msgstr ""
+
+msgid "If you&#8217;d like the post content editor to be more front-and-center, enabling this tweak will scroll the page down towards the editor when you load the &#8220;Write Post&#8221; or &#8220;Write Page&#8221; sections. Based on the <a href="http://wordpress.org/extend/plugins/writescroll/" target="_blank">WriteScroll</a> plugin by Dougal Campbell."
+msgstr ""
+
+msgid "Disable tag autocomplete"
+msgstr ""
+
+msgid "The tagging autocomplete function can slow you down if you have a large number of tags. This tweak will disable it. (Only applies to WordPress 2.5 and above. Based on the <a href="http://wordpress.org/extend/plugins/tag-uncomplete/" target="_blank">Tag Uncomplete</a> plugin by Alex King.)"
+msgstr ""
+
+msgid "Disable the Dashboard"
+msgstr ""
+
+msgid "Hides and disables the Dashboard for all users except those with the view_dashboard capability."
+msgstr ""
+
+msgid "Disable the Flash uploader"
+msgstr ""
+
+msgid "You can disable the Flash-based media uploader if it&#8217;s giving you problems. (Only applies to WordPress 2.5 and above.)"
+msgstr ""
+
+msgid "Remove the width restraint on administration pages"
+msgstr ""
+
+msgid "With the new admin interface introduced in WordPress 2.5, the content of the administration webpages is limited to 980 pixels wide. If you&#8217;d like to take advantage of your entire screen real estate, enable this tweak. (Only applies to WordPress 2.5 and above. Based on the <a href="http://wordpress.org/extend/plugins/remove-max-width/" target="_blank">Remove Max Width</a> plugin by Dion Hulse.)"
+msgstr ""
+
+msgid "Comments and Pings"
+msgstr ""
+
+msgid "Disable self-pinging"
+msgstr ""
+
+msgid "Enable this tweak to stop WordPress from sending pings to your own site. (Based on the <a href="http://wordpress.org/extend/plugins/no-self-ping/" target="_blank">No Self Pings</a> plugin by Michael D. Adams.)"
+msgstr ""
+
+msgid "Open external comment links in new windows"
+msgstr ""
+
+msgid "Searches comments for links to webpages outside your domain name and adds <tt>target="_blank"</tt> using XHTML Strict-compliant JavaScript."
+msgstr ""
+
+msgid "Show comments in reverse order"
+msgstr ""
+
+msgid "Usually this results in the newest comments being shown first. Note that the comment numbering may not be reversed, depending on your theme."
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Open external post links in new windows"
+msgstr ""
+
+msgid "Searches posts for links to webpages outside your domain name and adds <tt>target=&quot;_blank&quot;</tt> using XHTML Strict-compliant JavaScript."
+msgstr ""
+
+msgid "When displaying post excerpts on archive pages, display a &#8220;Read more &raquo;&#8221; link instead of &#8220;[...]&#8221;"
+msgstr ""
+
+msgid "Nofollow"
+msgstr ""
+
+msgid "Add to post comment links"
+msgstr ""
+
+msgid "(Requires WordPress 2.5 or above.)"
+msgstr ""
+
+msgid "Add to &#8220;Read more&#8221; links"
+msgstr ""
+
+msgid "Add to tag cloud links"
+msgstr ""
+
+msgid "(Only applies to WordPress 2.3 or above.)"
+msgstr ""
+
+msgid "Add to the &#8220;Register&#8221; and &#8220;Login&#8221; links"
+msgstr ""
+
+msgid "Enable this tweak to stop needless sitewide PageRank flow to your registration and login pages."
+msgstr ""
+
+msgid "Remove from comment author links"
+msgstr ""
+
+msgid "Remove from comment body links"
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+msgid "Only show the tag cloud widget on the homepage"
+msgstr ""
+
+msgid "If you have many tags, only showing the tag cloud widget on the homepage can decrease your sitewide links-per-page counts."
+msgstr ""
+
+msgid "Show post excerpts (instead of full content) on archive pages"
+msgstr ""
+
+msgid "Helps avoid duplicate content issues in search engines. Also decreases the size of your archive pages, which can ease visitor navigation and decrease download times."
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Disable directory listing for my plugins folder"
+msgstr ""
+
+msgid "Adds an empty index.html file to the <a href="../wp-content/plugins/" target="_blank">wp-content/plugins/</a> folder, which should prevent the contents of that folder from being listed by the server. The intention is to make it more difficult for hackers to detect exploitable plugins running on your blog. (This tweak may not work with certain server configurations.)"
+msgstr ""
+
+msgid "Hide WordPress&#8217;s version number from my theme and feeds"
+msgstr ""
+
+msgid "By default, WordPress advertises your WordPress version number both in your feeds and via hidden header code in your theme. Disabling this behavior may help protect you against some version-specific security flaw exploitations. (Of course, this is no replacement for keeping WordPress up-to-date.)"
+msgstr ""
+
+msgid "Theme and Appearance"
+msgstr ""
+
+msgid "Add code references to favicon.ico"
+msgstr ""
+
+msgid "To enable a <a href="http://en.wikipedia.org/wiki/Favicon" target="_blank">favicon</a> for your blog, upload an icon file named <tt>favicon.ico</tt> to the root of your domain name, and then enable this tweak to add the proper HTML code to your blog. (Only enable this tweak if the favicon has already been uploaded.)"
+msgstr ""
+
+msgid "Remove white space from pages list"
+msgstr ""
+
+msgid "This will remove the space character between each list item that you may see if your pages list is rendered as a horizontal menu."
+msgstr ""
+
+msgid "WordPress 2.3 Legacy Fixes"
+msgstr ""
+
+msgid "Rename &#8220;Blogroll&#8221; admin menu item to &#8220;Links&#8221;"
+msgstr ""
+
+msgid "Enable this if the Blogroll terminology in WordPress 2.3&#8217;s administration menu annoys you. (Issue resolved in WordPress 2.5.)"
+msgstr ""
+
+msgid "Fix: current_page_item on page_for_posts"
+msgstr ""
+
+msgid "When using a static page to show blog posts, use the &#8220;current_page_item&#8221; CSS class when that page is showing. (View this <a href="http://trac.wordpress.org/ticket/2959" target="_blank">bug ticket</a> for more information. The bug was fixed in WordPress 2.5.)"
+msgstr ""
+
+msgid "Plugin Settings"
+msgstr ""
+
+msgid "Enable tweaks counter"
+msgstr ""
+
+msgid "Show off my tweaks count in my blog&#8217;s footer."
+msgstr ""
+
+msgid "WordPress Tweaks"
+msgstr ""
+
+msgid "Tweaks"
+msgstr ""
+
+msgid "Insufficient user privileges."
+msgstr ""
+
+msgid "Options saved."
+msgstr ""
+
+msgid "WordPress Tweaks %s"
+msgstr ""
+
+msgid "Update Options"
+msgstr ""
+
+msgid "This blog has been fine-tuned by %1$s %2$sWordPress Tweak%3$s"
+msgid_plural "This blog has been fine-tuned by %1$s %2$sWordPress Tweaks%3$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Manage Links"
+msgstr ""
+
+msgid "Read more &raquo;"
+msgstr ""
