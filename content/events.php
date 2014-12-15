@@ -1,2 +1,5 @@
-<h2>Events</h2>
-<p>Currently no events are occurring</p>
+<h2>Products</h2>
+<h1>Speaking Events of Dr. Elia</h1>
+<p>
+There are currently no events
+</p>

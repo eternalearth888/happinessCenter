@@ -1,0 +1,1 @@
+<img id="callout" src="images/callout.png">

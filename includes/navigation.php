@@ -1,3 +1,4 @@
+
 <div class="top">
 <img id="logo" src="images/logo.png" alt="The Happiness Center"/>
 
@@ -26,10 +27,11 @@
 
 <nav>
 <ul>
-<li><a href="products.php">Books</a></li>
+<li><a href="products.php">Products</a></li>
 <li><a href="ask.php">Ask Dr. Elia!</a></li>
 <li><a href="contact.php">Contact Us</a></li>
 </ul>
 </nav>
-
 </div>
+
+<!-- <?php include('sociallinks.php'); ?> -->

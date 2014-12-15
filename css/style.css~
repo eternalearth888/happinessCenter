@@ -123,45 +123,38 @@ p {
 
 .author {
 	text-align: right;
-	vertical-align: top;
+	vertical-align: middle;
 	font-weight: bold;
 	font-style: italic;
 }
 
-#callout {
+#social {
 	position: fixed;
-	right: 1em;
-	top: 7em;
-}
-
-#callout img {
-	width: 25px;
-	height: 25px;
+	right: 0;
+	top: 1em;
+	width: 100%;
+	text-align: right;
+	height: auto;
 }
 
 #info {
 	text-align: left;
-	display: inline-block;
 	vertical-align: bottom;
-}
-
-#title {
-	font-size: 15px;
-	text-transform: uppercase;
-	text-align: center;
-	text-decoration: underline;
-}
-
-#social {
-	width: 160px;
-	text-align: right;
+	border: 1px solid red;
 	display: inline-block;
-	vertical-align: middle;
 }
 
-#social img {
+#socialF {
+	text-align: right;
+	vertical-align: bottom;
+	display: inline-block;
+	border: 1px solid blue;
+}
+
+#social, #socialF img {
 	width: 36px;
 	height: 36px;
+	margin: .2em;
 }
 
 /**NAV UL**/
@@ -232,11 +225,4 @@ a:visited {
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
 	color: #83b449;
-}
-
-/**elia image**/
-#eliaImage img{
-	width: 100px;
-	height: 130px;
-	border-radius: 5px;
 }
