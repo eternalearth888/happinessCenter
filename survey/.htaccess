@@ -1,0 +1,4 @@
+Options -Indexes
+AddType text/x-server-parsed-html .html
+AddType x-mapp-php5 .shtml .html .htm .php
+
