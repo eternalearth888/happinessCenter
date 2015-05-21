@@ -1,4 +1,6 @@
 <h2> Praise for <i>7 Paths to Lasting Happiness</i></h2>
+<p>"This is a really wonderful book.It contains important insights and great stories to illustrate the principles being taught. It does an especially good job in helping to close the gap between what we know and what we do. We all "know" more than what we "do." I found the book very helpful in motivating me to try to close that gap." </p>
+<p><div class="author">Mark Willes, Former CEO, Times-Mirror Corp. and Former President, General Mills.</div></p>
 <p>“Don’t miss this book!  If you are looking for increased personal happiness, greater productivity and satisfaction in the workplace, and more fulfilling relationships in life, 7 Paths to Lasting Happiness is for you.  Dr. Gourgouris not only lays out a roadmap to finding greater happiness, but more importantly, he provides the compass as well.  This book is a gem!”</p>
 <p><div class="author">~Captain Mike Abrashoff, bestselling author of It’s Your Ship</div></p>
 <p>“What a great book! Dr. Gourgouris does an amazing job of clearly defining the true paths to lasting happiness with his simple and practical steps. 7 Paths to Lasting Happiness is an easy and enjoyable read, but the principles contained are timeless, profound, and incredibly valuable.” </p>
