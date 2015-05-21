@@ -1,5 +1,5 @@
 <h2>Products</h2>
-<h1>The 7 Principles of Lasting Happiness</h1>
+<h1>7 Paths of Lasting Happiness</h1>
 <p>Coming soon!</p>
 <h1>Swaddling Mama</h1>
 <p>
@@ -20,7 +20,7 @@ Topics covered:
 </ul>
 </p>
 <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-$19.95&nbsp;
+$9.95&nbsp;
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" name="submit" alt="Purchase Swaddling Mama">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
