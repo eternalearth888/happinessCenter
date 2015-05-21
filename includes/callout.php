@@ -1,1 +1,1 @@
-<a href="http://www.amazon.com/Paths-Lasting-Happiness-Ultimate-Success-ebook/dp/B00WVGDCQ0"><img id="callout" src="images/callout.png"></a>
+<a href="https://www.createspace.com/5467042"><img id="callout" src="images/amazon_book.jpg"></a>

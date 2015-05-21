@@ -119,6 +119,7 @@ p {
 	text-indent: 3em;
 	padding-right: .5em;
 	padding-left: .5em;
+	margin: .5em;
 }
 
 .author {
@@ -130,7 +131,7 @@ p {
 
 #callout {
 	position: fixed;
-	right: 1em;
+	right: 2.5em;
 	top: 10em;
 }
 
@@ -236,7 +237,8 @@ a:hover, a:focus, a:active {
 
 /**elia image**/
 #eliaImage img{
-	width: 100px;
-	height: 130px;
-	border-radius: 5px;
+	margin: .2em;
+	float: left;
+	border-radius: .1em;
+	vertical-align: middle;
 }

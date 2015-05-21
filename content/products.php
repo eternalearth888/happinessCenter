@@ -1,6 +1,12 @@
 <h2>Products</h2>
 <h1>7 Paths of Lasting Happiness</h1>
-<p>Coming soon!</p>
+<div id="eliaImage"><a href="https://www.createspace.com/5467042"><img src="images/amazon_book.jpg"></a></div>
+<p>
+I'm so grateful for this powerful endorsement about the 7 Paths to Lasting Happiness from President Willes.
+"This is a really wonderful book.It contains important insights and great stories to illustrate the principles being taught. It does an especially good job in helping to close the gap between what we know and what we do. We all "know" more than what we "do." I found the book very helpful in motivating me to try to close that gap." 
+</p>
+<p><div class="author">Mark Willes, Former CEO, Times-Mirror Corp. and Former President, General Mills.</div></p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h1>Swaddling Mama</h1>
 <p>
 A relaxation/imagery CD designed to reassure, nurture and empower mothers and to help them feel confident and strong in their role as a mother.
