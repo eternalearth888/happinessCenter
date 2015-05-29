@@ -133,6 +133,8 @@ p {
 	position: fixed;
 	right: 2.5em;
 	top: 10em;
+	border-color : #9ecaed;
+	box-shadow: 0 0 10px #9ecaed;
 }
 
 #callout img {
@@ -165,17 +167,91 @@ p {
 	height: 36px;
 }
 
-/**NAV UL**/
-nav ul{
-	height: auto;
-	padding: .5em 0em;
-	margin: .5em;
-	list-style-type: none;
-	text-align: left;
+/**NAVIGATION**/
+nav {
+	vertical-align: middle;
+	text-align: center;
+	z-index: 2;
 }
 
-nav li{
-	padding: .2em;
+nav ul {
+	padding: 0 2em;
+	list-style: none;
+	position: relative;
+	display: inline-block;
+	text-transform: uppercase;
+	text-decoration: none;
+	z-index: 2;
+}
+
+nav ul ul{
+	display: none;
+	z-index: 2;
+}
+
+nav ul li{
+	margin-left: .2em;
+	margin-right: .2em;
+	float: left;
+	display: inline-block;
+	z-index: 2;
+}
+
+nav ul li a {
+	display: block;
+	padding: .1em .5em .1em .5em;
+	z-index: 2;
+}
+
+nav ul li:hover > ul {
+	text-align: left;
+	width: 225px;
+	left: -10px;
+	display: block;
+	z-index: 2;
+}
+
+	
+nav ul li:hover {
+	z-index: 2;
+}
+
+nav ul li:hover a {
+	z-index: 2;
+}
+
+nav ul li:hover > ul {
+	margin: 0;
+	padding: 0;
+	z-index: 2;
+}
+
+nav ul li:hover > ul li {
+	float: none;
+	display: block;
+	margin: .1em;
+	z-index: 2;
+}
+
+nav ul li:hover > ul li a {
+	background-color: #f0ead5;
+	z-index: 2;
+}
+
+nav ul li:hover > ul li a:hover {
+	background-color: #f0ead5;
+	z-index: 2;
+}
+
+nav ul li {
+	position: relative;
+	z-index: 2;
+}
+
+nav ul li ul {
+	position: absolute;
+	z-index: 2;
+	
 }
 
 /**TABLE STUFF**/
