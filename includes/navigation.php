@@ -27,7 +27,7 @@
 		<ul>
 				<li><a href="quotes.php">Happiness Quotes</a></li>
 				<li><a href="./survey/survey.php" target="_blank">Happiness Survey</a></li>
-				<li><a href="./workbook/" target="_blank">Happiness Workbook</a></li>
+				<li><a href="http://eepurl.com/bo2zuP" target="_blank">Happiness Workbook</a></li>
 		</ul>
 		</li>
 			<li><a href="products.php">Products</a></li>
