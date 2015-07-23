@@ -1,2 +1,2 @@
 <h2>Articles</h2>
-<p>Hello world, articles!</p>
+<center><img src="../images/comingsoon.png" alt="coming soon!"/></center>

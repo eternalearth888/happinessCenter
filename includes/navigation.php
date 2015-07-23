@@ -19,7 +19,7 @@
 			<li><a href="media.php">Media</a></li>
 			<li><a href="articles.php">Articles</a></li>
 			<li><a href="services.php">Services</a></li>
-			<li><a href="testimonial.php">Testimonials</a></li>
+			<li><a href="testimonials.php">Testimonials</a></li>
 		</ul>
 		</li>	
 		<li>
@@ -28,6 +28,7 @@
 				<li><a href="quotes.php">Happiness Quotes</a></li>
 				<li><a href="./survey/survey.php" target="_blank">Happiness Survey</a></li>
 				<li><a href="http://eepurl.com/bo2zuP" target="_blank">Happiness Workbook</a></li>
+				<li><a href="bookclub.php">Happiness Book Club</a></li>
 		</ul>
 		</li>
 			<li><a href="products.php">Products</a></li>

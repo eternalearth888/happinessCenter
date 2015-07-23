@@ -267,6 +267,13 @@ table {
 	background-color: #9685BA;
 }
 
+thead {
+	font-weight: bold;
+	margin: .5em 1em .5em 1em;
+	border-bottom: 1px dashed #5a5a5a;
+	color: #83b449;
+}
+
 tbody {
 	vertical-align: top;
 	font-size: 12px;
