@@ -29,10 +29,11 @@ Single Adult
 Monday August 29
 </td>
 <td>
-Winter Park,Co
+ Snow Mountain Ranch  at 1101 County Road 53, Granby, Colorado 80446.
 </td>
-<td> 10-11am, 11am-12pm</td>
+<td> 11am and 1pm</td>
 <td>
+LDS CO Mid-Singles Retreat
 </td>
 </tr>
 <tr>
